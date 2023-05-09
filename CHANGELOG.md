@@ -1,3 +1,7 @@
+## dbt-databricks 1.5.x (Unreleased)
+
+- Fix: Python submissions should always use the auth token in `profiles.yml` (ignore .netrc file)
+
 ## dbt-databricks 1.5.0 (May 2, 2023)
 
 ### Features
